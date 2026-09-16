@@ -2,7 +2,7 @@
 
 I'm Ahad, a Computer Science graduate.
 
-I'm into AI and backend development — building APIs, data plumbing, and wiring models into things people actually use.
+I'm into AI and backend development — building APIs, data plumbing, and wiring models into things people actually use. Into security as well.
 
 
 
@@ -19,6 +19,5 @@ I'm into AI and backend development — building APIs, data plumbing, and wiring
 
 ## A Bit About Me
 
-- ⚽ Football fan, and into sports analytics
-- 🔐 Into security as well
+- ⚽ Football fan
 - 🔧 I like building things that solve real problems and have real impact
