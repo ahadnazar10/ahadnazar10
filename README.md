@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**ahadnazar10/ahadnazar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ahad, a Computer Science graduate.
 
-Here are some ideas to get you started:
+I'm into AI and backend development — building APIs, data plumbing, and wiring models into things people actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+## Tools & Tech
+
+- Python, C++, JavaScript
+- REST & GraphQL, Redis, PostgreSQL, Docker
+- LLM APIs, prompting, RAG-style pipelines
+- Linux, Git, and too many terminal tabs
+
+---
+
+## A Bit About Me
+
+- ⚽ Football fan, and into sports analytics
+- 🔐 Into security as well
+- 🔧 I like building things that solve real problems and have real impact
